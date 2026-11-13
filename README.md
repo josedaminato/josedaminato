@@ -4,7 +4,7 @@
 
 I build software that makes everyday work simpler: from understanding a real workflow to designing the interface, implementing the application, and iterating on it. Through my work with **DaminatoWeb**, I have built websites and digital tools for health professionals and small businesses.
 
-My strongest project experience is with **React, TypeScript, Python, FastAPI, PostgreSQL, and Supabase**. I have also worked with Docker, JavaScript, and integrations for messaging and AI-assisted workflows.
+My project work includes **React, TypeScript, Python, FastAPI, PostgreSQL, Supabase, and Docker**, as well as JavaScript and Next.js.
 
 ## Selected work
 
@@ -13,7 +13,7 @@ My strongest project experience is with **React, TypeScript, Python, FastAPI, Po
 | [AppMedica](https://github.com/josedaminato/appmedica) | Practice-management SaaS for patient records, appointments, health insurance workflows, payments, and reporting. | React, TypeScript, FastAPI, PostgreSQL, Docker |
 | [Healthcare Assistant](https://github.com/josedaminato/chatbot) | Appointment assistant for clinics, with a web dashboard, reminders, and WhatsApp integration. | Python, Twilio, OpenAI |
 | [Oficios MZ](https://github.com/josedaminato/OficiosMZ) | Platform concept connecting local service workers with clients, with role-based areas and document uploads. | React, Supabase |
-| [3er Tiempo](https://github.com/josedaminato/3ertiempo) | Small web app that helps a group organize a football match and balance teams. | JavaScript, HTML, CSS |
+| [Trainer Web Template](https://github.com/josedaminato/chacocoach) | Reusable website template for personal trainers, with content management and lead capture. | Next.js, TypeScript, Sanity |
 
 ## How I work
 
